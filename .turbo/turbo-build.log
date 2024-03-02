@@ -1,0 +1,7 @@
+
+> web@1.0.0 build /Users/ateettiwari/Desktop/pulze/my_pulze/apps/web
+> next build
+
+sh: next: command not found
+ ELIFECYCLE  Command failed.
+ WARN   Local package.json exists, but node_modules missing, did you mean to install?
